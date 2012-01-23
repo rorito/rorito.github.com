@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Code Blog]]></title>
+  <link href="http://rorito.github.com/atom.xml" rel="self"/>
+  <link href="http://rorito.github.com/"/>
+  <updated>2012-01-22T23:19:08-05:00</updated>
+  <id>http://rorito.github.com/</id>
+  <author>
+    <name><![CDATA[Rorito]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Testing out Octopress]]></title>
+    <link href="http://rorito.github.com/blog/2012/01/22/testing-out-octopress/"/>
+    <updated>2012-01-22T23:16:00-05:00</updated>
+    <id>http://rorito.github.com/blog/2012/01/22/testing-out-octopress</id>
+    <content type="html"><![CDATA[<p>Trying out Octopress for code blogging&#8230;</p>
+]]></content>
+  </entry>
+  
+</feed>
